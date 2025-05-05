@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore uploaded files directory
+uploads/
+
+# Ignore Node.js dependencies
+node_modules/
