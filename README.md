@@ -17,10 +17,10 @@ Buzztalk is a full-stack real-time chat application built using the MERN stack (
 
 **🛠️ Tech Stack**
 
-Frontend: React.js, Tailwind CSS
+1. Frontend: React.js, Tailwind CSS
 
-Backend: Node.js, Express.js
+2. Backend: Node.js, Express.js
 
-Real-Time: Socket.io
+3. Real-Time: Socket.io
 
-Database: MongoDB with Mongoose
+4. Database: MongoDB with Mongoose
